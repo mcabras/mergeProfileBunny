@@ -1,3 +1,3 @@
 # mergeProfileBunny
 
-Enter url http://3.16.107.15:8080/mergeProfiles
+Enter url http://testapptomcat.us-east-2.elasticbeanstalk.com/mergeProfiles
