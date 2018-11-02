@@ -14,7 +14,7 @@ bunny:
     urlapi: https://api.linkedin.com/v1/people/~?format=json
     urlauth: https://www.linkedin.com/oauth/v2/authorization
     responsetype: code
-    redirecturl: http://3.16.107.15:8080/profile
+    redirecturl: http://testapptomcat.us-east-2.elasticbeanstalk.com/profile
     clientid: 783pbk2tx4f5c5
     state: DCEeFWf45A53sdfKef424
     urlaccess: https://www.linkedin.com/oauth/v2/accessToken
